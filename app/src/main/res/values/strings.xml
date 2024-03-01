@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TiendaProdEvaluable</string>
+    <string name="cart_cleared">Carrito vaciado</string>
+    <string name="total_price">Total Precio: %1$s</string>
+    <string name="purchase_confirmation">Enhorabuena, compra por valor de %1$s realizada</string>
+    <string name="cart_emptied">Carrito vaciado</string>
+
+</resources>
